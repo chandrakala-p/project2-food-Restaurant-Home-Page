@@ -10,7 +10,7 @@ Chandrakala P
 
 ### Live project Link:
 
-[project link](https://street-style-land-page-project1.netlify.app/)
+[project link](https://restaraurant-land-page-project2.netlify.app/)
 
 ## What I learnt from this Project?
 
